@@ -55,6 +55,11 @@ h1 {
     display: flex;
 }
 
+.third {
+    background-color: #1F2937;
+    height: 100px;
+}
+
 .box {
     display: flex;
     flex-direction: column;
