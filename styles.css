@@ -35,3 +35,22 @@ h1 {
     display:flex;
 
 }
+
+.antras left {
+    display: flex;
+    flex-direction: column;
+}
+
+.middle {
+    display: flex;
+    flex-direction: column;
+}
+
+.boxes {
+    display: flex;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+}
