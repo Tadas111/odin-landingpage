@@ -29,6 +29,7 @@ h1 {
 
 .menu right {
     display: flex;
+    gap: 5px;
 }
 
 .antras {
@@ -63,4 +64,8 @@ h1 {
 .box {
     display: flex;
     flex-direction: column;
+}
+
+button {
+    background-color: #3882F6;
 }
