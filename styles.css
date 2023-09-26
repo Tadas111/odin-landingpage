@@ -36,9 +36,14 @@ h1 {
 
 }
 
-.antras left {
+.kairys {
     display: flex;
     flex-direction: column;
+}
+
+.desinys {
+    background-color: #1F2937;
+    padding: 40px;
 }
 
 .middle {
