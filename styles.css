@@ -8,7 +8,7 @@ body {
     flex-direction: column;
     background-color: #1F2937;                       
     color: #e5e7eb;
-    height: 400px;
+    height: 300px;
     padding-left: 40px;
     padding-right: 40px;
     padding-bottom: 30px;
@@ -29,7 +29,7 @@ h1 {
 
 .menu right {
     display: flex;
-    gap: 5px;
+    margin: 5px;
 }
 
 .antras {
@@ -43,13 +43,16 @@ h1 {
 }
 
 .desinys {
-    background-color: #1F2937;
+    background-color: #E5E7EB;;
     padding: 40px;
+    height: 50px;
+    width: 100px;
 }
 
 .middle {
     display: flex;
     flex-direction: column;
+    height: 300px;
 }
 
 .boxes {
@@ -58,7 +61,7 @@ h1 {
 
 .third {
     background-color: #E5E7EB;
-    height: 100px;
+    height: 250px;
 }
 
 .box {
