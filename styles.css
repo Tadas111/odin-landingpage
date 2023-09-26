@@ -5,5 +5,24 @@ body {
 
 .top {
     display: flex;
-    background-color: #1F2937;
+    flex-direction: column;
+    background-color: #1F2937;                       
+    color: #e5e7eb;
+    height: 500px;
+    
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 800;
+    color:#F9FAF8
+}
+
+.menu {
+    display: flex;
+}
+
+.antras {
+    display:flex;
+
 }
